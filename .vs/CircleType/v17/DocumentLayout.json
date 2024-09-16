@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\kara\\CircleType\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|E:\\kara\\CircleType\\CircleType\\CircleType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|solutionrelative:CircleType\\CircleType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|E:\\kara\\CircleType\\CircleType\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|solutionrelative:CircleType\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|E:\\kara\\CircleType\\CircleType\\CircleType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|solutionrelative:CircleType\\CircleType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|E:\\kara\\CircleType\\CircleType\\PointType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C5DFB5A-32F5-4F6B-B835-A0D29A40AF41}|CircleType\\CircleType.vcxproj|solutionrelative:CircleType\\PointType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +30,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircleType.h",
+              "DocumentMoniker": "E:\\kara\\CircleType\\CircleType\\CircleType.h",
+              "RelativeDocumentMoniker": "CircleType\\CircleType.h",
+              "ToolTip": "E:\\kara\\CircleType\\CircleType\\CircleType.h",
+              "RelativeToolTip": "CircleType\\CircleType.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-16T11:05:44.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointType.h",
+              "DocumentMoniker": "E:\\kara\\CircleType\\CircleType\\PointType.h",
+              "RelativeDocumentMoniker": "CircleType\\PointType.h",
+              "ToolTip": "E:\\kara\\CircleType\\CircleType\\PointType.h",
+              "RelativeToolTip": "CircleType\\PointType.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-16T11:00:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CircleType.cpp",
-              "DocumentMoniker": "E:\\kara\\CircleType\\CircleType\\CircleType.cpp",
-              "RelativeDocumentMoniker": "CircleType\\CircleType.cpp",
-              "ToolTip": "E:\\kara\\CircleType\\CircleType\\CircleType.cpp",
-              "RelativeToolTip": "CircleType\\CircleType.cpp",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAACEAAAATAAAA",
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\kara\\CircleType\\CircleType\\Main.cpp",
+              "RelativeDocumentMoniker": "CircleType\\Main.cpp",
+              "ToolTip": "E:\\kara\\CircleType\\CircleType\\Main.cpp",
+              "RelativeToolTip": "CircleType\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-15T18:31:04.789Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
